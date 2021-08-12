@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='Apicure Relief Rub'>5</x>
+<y>-0.3081</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='Apicure Relief Rub'>0</x>
+<y>20</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

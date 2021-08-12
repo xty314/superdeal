@@ -1,0 +1,36 @@
+
+#gpos
+/admin/data
+/admin/backup
+/admin/template/**
+/admin/temp
+
+/admin/doc/*
+/admin/bin/*
+/data/*
+/cs/data/*
+/Debug
+/dealer/data/*
+/PxPay_CSDotNet35
+/admin/bar/*.gif
+
+/mreport
+/download/**
+
+#ignore import files 
+/import
+
+#ignore pic in pi folder but pi folder
+/pi/*
+!/pi/.gitkeep 
+
+Thumbs.db
+
+/sync
+/syncdata
+#sql config
+/appSettings.json
+
+/ecom/config.js
+/admin/*.log
+

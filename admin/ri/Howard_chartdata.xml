@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='kyle'>0</x>
+<y>90</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='kyle'>5</x>
+<y>5570.6666</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

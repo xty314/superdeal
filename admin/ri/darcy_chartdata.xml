@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='A1870 bnc plug to rca socket'>5</x>
+<y>408</y>
+</chartdata>
+<chartdata>
+<x legend='A1863 rca plug for 5.6mm cable'>15</x>
+<y>306</y>
+</chartdata>
+<chartdata>
+<x legend='A1856 1rca socket'>25</x>
+<y>204</y>
+</chartdata>
+<chartdata>
+<x legend='A1849 1rca plug'>35</x>
+<y>142.8</y>
+</chartdata>
+<chartdata>
+<x legend='A1832 9.5mm-2.3mm coaxial connector with plug'>45</x>
+<y>122.21</y>
+</chartdata>
+<chartdata>
+<x legend='A1221 dynamic microphone'>55</x>
+<y>-1.04</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='A1870 bnc plug to rca socket'>0</x>
+<y>448</y>
+</chartdata>
+<chartdata>
+<x legend='A1863 rca plug for 5.6mm cable'>10</x>
+<y>336</y>
+</chartdata>
+<chartdata>
+<x legend='A1856 1rca socket'>20</x>
+<y>224</y>
+</chartdata>
+<chartdata>
+<x legend='A1849 1rca plug'>30</x>
+<y>154.8</y>
+</chartdata>
+<chartdata>
+<x legend='A1832 9.5mm-2.3mm coaxial connector with plug'>40</x>
+<y>132.31</y>
+</chartdata>
+<chartdata>
+<x legend='A1221 dynamic microphone'>50</x>
+<y>3.96</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

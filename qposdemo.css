@@ -1,0 +1,200 @@
+Body {
+	font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+/* ID */
+
+#TopNavTable a{
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-align:center;
+}
+#TopNavTable a:hover{
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#FF9900;
+	text-align:center;
+}
+#Flash {
+	border-bottom:1px #6699CC solid;
+	border-top:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+}
+#MainNavmiddle  {
+	border-bottom:1px #6699CC solid;
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-align:center;	
+}
+#MainNavsidel a{
+	border-bottom:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-align:center;	
+}
+#MainNavsider {
+	border-bottom:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-align:right;	
+}
+#searchform {
+	position:absolute;
+	width:439px;
+	height:30px;
+	z-index:101;
+	left:63%;
+	top:205px;
+}
+#LeftNav {
+	border-left:1px #6699CC solid;
+}
+#LeftNav a{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-decoration:none;
+	letter-spacing:.1em;
+	display:block;
+	padding:8px 6px 10px 20px;
+	border-bottom:1px #CCCCCC dashed;
+	
+}
+#LeftNav a:hover{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FF9900;
+	background:url(i/lbg.jpg);
+	text-decoration:none;
+	letter-spacing:.1em;
+	display:block;
+	padding:8px 6px 10px 20px;
+	
+}
+#footer {
+   background:#05ADEA;
+   color:#FFFFFF;
+}
+#footer a{
+	font:13px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-align:center;
+}
+#footer a:hover{
+	font:13px Arial, Helvetica, sans-serif;
+	color:#FF6600;
+	text-align:center;
+}
+#welcome{
+	position:absolute;
+	width:180px;
+	height:120px;
+	z-index:-1;
+	left: 72%;
+	top: 300px;
+	text-align:center;
+}
+/* Class */
+.QposTitle {
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#FF6600;
+	text-align:center;
+}
+.SearchButton {
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	border-style:none;
+	border-left:1px #FF6600 solid;
+	border-right:1px #FF6600 solid;
+	border-top:1px #FF6600 solid;
+	border-bottom:1px #FF6600 solid;
+	background:none;
+	height:20px;
+}
+.SearchField{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FF6600;
+	size:30;
+}
+.MainNav{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#666666;
+	text-align:center;
+}
+.SubMenu a{
+	font:bold;
+    color:#6699CC;
+	
+}
+.SubMenu a:hover {
+	font:bold;
+	color:#FF6600;
+	text-decoration:underline;
+}
+.Submenu td{
+	border-bottom:1px #CCCCCC dashed;
+}
+.MiddleNav{
+	border-bottom:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+}
+.LoginTable {
+	border-bottom:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-top:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	background:#F3F3F3;
+
+}
+.LoginTable a{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#6699CC;
+	text-align:center;
+}
+.LoginTable a:hover{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#FF6600;
+	text-align:center;
+}
+.LoginTableTitle {
+	font:bold 16px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background:url(i/tbg.jpg);
+	text-align:center;
+}
+.LoginAtt {
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#6699CC;
+	text-align:center;
+	border-bottom:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+}
+.LoginField {
+	font:12px Arial, Helvetica, sans-serif;
+	color:#003366;
+	border-style:none;
+	border-top:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	border-bottom:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	size:13;
+}
+.WhatIsNew {
+	font:bold 16px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background:#FF6600;
+	text-align:center;
+}

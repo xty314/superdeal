@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='SDL'>0</x>
+<y>117</y>
+</chartdata>
+<chartdata>
+<x legend='Janice'>10</x>
+<y>12</y>
+</chartdata>
+<chartdata>
+<x legend='Evelyn '>20</x>
+<y>9</y>
+</chartdata>
+<chartdata>
+<x legend='Eric'>30</x>
+<y>9</y>
+</chartdata>
+<chartdata>
+<x legend='Andy'>40</x>
+<y>6</y>
+</chartdata>
+<chartdata>
+<x legend='Reina'>50</x>
+<y>5</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='SDL'>5</x>
+<y>50320.0760</y>
+</chartdata>
+<chartdata>
+<x legend='Janice'>15</x>
+<y>-525.8080</y>
+</chartdata>
+<chartdata>
+<x legend='Evelyn '>25</x>
+<y>2627.5140</y>
+</chartdata>
+<chartdata>
+<x legend='Eric'>35</x>
+<y>4128.3870</y>
+</chartdata>
+<chartdata>
+<x legend='Andy'>45</x>
+<y>13592.8000</y>
+</chartdata>
+<chartdata>
+<x legend='Reina'>55</x>
+<y>1028.8580</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

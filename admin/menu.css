@@ -1,0 +1,38 @@
+/* CSS Document */
+#menu a{
+	font:bold 12px Arial, Helvetica, sans-serif;
+	color:#999999;
+	text-decoration:none;
+	letter-spacing:.1em;
+	display:block;
+	padding:6px 3px 5px 15px;
+	/*border-bottom:1px #CCCCCC dashed;*/
+	
+}
+#menu a:hover{
+	font:bold 12px Arial, Helvetica, sans-serif;
+	/*color:#FFFFFF;
+	background:url(i/obg.gif);*/
+	color:#FF6600;
+	text-decoration:none;
+	letter-spacing:.1em;
+	display:block;
+	padding:6px 3px 5px 15px;
+	
+}
+
+/* Class*/
+.Title {
+	font:bold 20px aArial, Helvetica, sans-serif;
+	color:#FFFFFF;
+
+	}
+.user {
+	font:bold 15px Arial, Helvetica, sans-serif;
+	color:#6699CC;
+	}
+.Subject{
+	font:bold 30px Arial, Helvetica, sans-serif;
+	color:#6699CC;
+	text-align:center;
+	}

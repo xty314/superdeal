@@ -1,0 +1,109 @@
+/* global style */
+@page{margin: 0}
+body{
+  margin:0;}
+img{border:0;}
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+}
+*:before,*:after{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+}
+/* print area style */
+#printArea{
+  /* border: 1px purple solid; */
+  box-sizing: border-box;
+  width:100mm;
+    
+  }
+  #printArea:before,#printArea:after{
+      content:"";
+      display:table;
+    }
+  #printArea:after{clear:both;}
+  /* A4 paper style */
+  .a4Paper{
+
+    /* height:297.13mm; */
+    /* padding-left: 0.5cm;
+    padding-top: 2.5mm; */
+    /* border: 1px black dotted; */
+   
+  }
+  /* label style */
+.glabel{
+	
+    min-height:1px;
+    position:relative;
+    float:left;
+    margin-right:-1px; 
+    margin-bottom:-1px;
+    border: 1px black dotted;
+    width:100mm;
+    height:73mm;
+    /* background-color: blue; */
+}
+.glabel .label_pic{
+  position: absolute;
+  height:36mm;
+  width:40mm;
+  /* border: 1px black solid; */
+  left: 5mm;
+  
+  /* padding-top: 12px;
+  padding-left:2px; */
+  top:4mm;
+}
+.glabel .label_logo{
+  position: absolute;
+  height:8mm;
+  width:27mm;
+  /* border: 1px black solid; */
+  right:5mm;
+ top:4mm;
+}
+
+.glabel .label_name{
+
+    position: absolute;
+   line-height: 19px;
+   font-size:18px;
+   /* word-break:break-all; */
+    word-wrap:break-word; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   /* border: 1px black solid; */
+   right:5mm;
+    top:14mm;
+    height:25mm;
+    width:45mm;
+  }
+  .glabel .label_supplier_code{
+ 
+    position: absolute;
+    text-align: center;
+	font-size:30px;
+    /* border: 1px black solid; */
+    left: 15mm;
+    bottom:15mm;
+   /* height:5mm;
+    width:40mm;*/
+  }
+
+  .glabel .label_price{
+
+    font-weight: bold;
+    position: absolute;
+    font-size: 43px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right:5mm;
+    transform:scale(1,2);
+    top:42mm;
+
+    /* border: 1px black solid; */
+  }
+
+

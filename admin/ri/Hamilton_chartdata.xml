@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='2366'>0</x>
+<y>-56.2211</y>
+</chartdata>
+<chartdata>
+<x legend='2367'>10</x>
+<y>73.6689</y>
+</chartdata>
+<chartdata>
+<x legend='2368'>20</x>
+<y>104.0556</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='2366'>5</x>
+<y>13.33</y>
+</chartdata>
+<chartdata>
+<x legend='2367'>15</x>
+<y>96.8889</y>
+</chartdata>
+<chartdata>
+<x legend='2368'>25</x>
+<y>171.5556</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

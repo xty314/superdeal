@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+     font:12px Arial, Helvetica, sans-serif;
+	 color:#333333;
+	  }
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color:#6699CC;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+a {
+	color:#333333;
+	}
+/*ID*/
+
+#table-border {       /*Apply for all main table*/
+    border-bottom:1px solid;
+    border-top:1px solid;
+    border-right:1px solid;
+	border-left:1px solid;
+	border-color:#CCCCCC;
+	
+	}
+	
+#table-td-border-bottom{ 
+    border-bottom:1px solid;
+    border-color:#CCCCCC;
+	}
+	
+#table-td-border-right{
+	border-right:1px solid;
+	border-color:#CCCCCC;
+	}
+	
+#table-list-border{     /*Apply for list*/
+	border-bottom:1px solid;
+	border-right:1px solid;
+	border-color:#CCCCCC;
+	}
+	
+#table-list-title-format{      /*Apply for  List Title*/
+    font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+	font-weight:bold;
+	text-align:center;
+	border-bottom:1px solid #999999;
+	border-right:1px solid #CCCCCC;
+	background:url(/i/titlebg.jpg);
+	}	
+
+#table-list-title-format-no-right{      /*Apply for  List Title*/
+    font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+	font-weight:bold;
+	text-align:center;
+	border-bottom:1px solid #999999;
+	background:url(/i/titlebg.jpg);
+	}
+
+#buttom-format{       /*All buttom format*/
+	font:12px Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#333333;
+	}
+			   
+#order-bg {
+    background:url(/i/order.jpg);
+	padding:8px 6px 6px 20px;
+	width:800px;
+	height:30px;
+	}
+
+#quote-bg {
+    background:url(/i/quote.jpg);
+	padding:8px 6px 6px 20px;
+	width:800px;
+	height:30px;
+	}
+	
+#top-header1 {
+    background:url(/i/lowstock1.jpg);
+	}
+	
+#top-header2 {
+    background:url(/i/lowstock2.jpg);
+	}
+
+#top-header3 {
+    background:url(/i/lowstock3.jpg);
+	}
+	
+#top-header4 {
+    background:url(/i/lowstock4.jpg);
+
+	}
+
+#top-header5 {
+    background:url(/i/lowstock5.jpg);
+	}
+		
+#purchase-bg {
+    background:url(/i/purchaselist.jpg);
+	padding:8px 6px 6px 20px;
+	width:902px;
+	height:30px;
+	}
+
+		              
+		   
+/*Class*/
+.pageName {					/*New Order, New Quote, Purchase List, Lower Stock ect*/
+	font:14px Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#333333;
+	text-align:left;
+	}
+	
+.navText{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+	}
+	
+.textBox {
+
+	font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+	text-align:right;
+	}
+	
+.textBox-search{			 /*Align = left*/
+	font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+	text-align:left;
+	}
+	  
+.summaryText{				/*Freigh, Sub-Total, TAX, Total*/
+	font:12px Arial, Helvetica, sans-serif;
+	color:#333333;
+	text-align:right;
+	}      

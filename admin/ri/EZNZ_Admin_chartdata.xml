@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='Microsoft ADSL Router  '>0</x>
+<y>-209.4</y>
+</chartdata>
+<chartdata>
+<x legend='UPS, Black Knight 1000 VA'>1</x>
+<y>666.66</y>
+</chartdata>
+<chartdata>
+<x legend='AVR 2000 VA'>2</x>
+<y>116.4267</y>
+</chartdata>
+<chartdata>
+<x legend='QNAP, NAS-TS-409-Pro, NAS Raid 1,SATA,4-Bay,Pro'>3</x>
+<y>1362.64</y>
+</chartdata>
+<chartdata>
+<x legend='QNAP, NAS-TS-509-Pro, NAS,Raid 1,SATA,5-Bay,Pro'>4</x>
+<y>2108.7</y>
+</chartdata>
+<chartdata>
+<x legend='TwinMOS 1G DDR-1066   '>5</x>
+<y>9.89</y>
+</chartdata>
+<chartdata>
+<x legend='UPS, King Pro 3000 VA'>6</x>
+<y>1057.32</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='Microsoft ADSL Router  '>0</x>
+<y>425</y>
+</chartdata>
+<chartdata>
+<x legend='UPS, Black Knight 1000 VA'>1</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='AVR 2000 VA'>2</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='QNAP, NAS-TS-409-Pro, NAS Raid 1,SATA,4-Bay,Pro'>3</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='QNAP, NAS-TS-509-Pro, NAS,Raid 1,SATA,5-Bay,Pro'>4</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='TwinMOS 1G DDR-1066   '>5</x>
+<y>52.6</y>
+</chartdata>
+<chartdata>
+<x legend='UPS, King Pro 3000 VA'>6</x>
+<y>0</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='Microsoft ADSL Router  '>0</x>
+<y>215.6</y>
+</chartdata>
+<chartdata>
+<x legend='UPS, Black Knight 1000 VA'>1</x>
+<y>666.66</y>
+</chartdata>
+<chartdata>
+<x legend='AVR 2000 VA'>2</x>
+<y>116.4267</y>
+</chartdata>
+<chartdata>
+<x legend='QNAP, NAS-TS-409-Pro, NAS Raid 1,SATA,4-Bay,Pro'>3</x>
+<y>1362.64</y>
+</chartdata>
+<chartdata>
+<x legend='QNAP, NAS-TS-509-Pro, NAS,Raid 1,SATA,5-Bay,Pro'>4</x>
+<y>2108.7</y>
+</chartdata>
+<chartdata>
+<x legend='TwinMOS 1G DDR-1066   '>5</x>
+<y>62.49</y>
+</chartdata>
+<chartdata>
+<x legend='UPS, King Pro 3000 VA'>6</x>
+<y>1057.32</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

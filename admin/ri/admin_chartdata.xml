@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend=''>1</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend=''>2</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend=''>3</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Average'>3</x>
+<y>0</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='This Week'>1</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Last Week'>2</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Week b4 Last Week'>3</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Average'>3</x>
+<y>0</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

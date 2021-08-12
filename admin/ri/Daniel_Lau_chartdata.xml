@@ -1,0 +1,3285 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='Smart Buy - Motueka SD195 '>0</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Gift Today - Thames SD800'>10</x>
+<y>36.48</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Whakatane SD1019'>20</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>30</x>
+<y>-4.32</y>
+</chartdata>
+<chartdata>
+<x legend='Just A Dime - Hamilton SD247 '>40</x>
+<y>50.04</y>
+</chartdata>
+<chartdata>
+<x legend='Kyle Grace - Taumarunui SD768'>50</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Hawera SD987'>60</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Whakatane SD1019'>70</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Ruakaka 123 - Ruakaka SD582 '>80</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain 4 U - Mangere SD154 '>90</x>
+<y>36.48</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>100</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Nicole Fashion Ltd - Whakatane SD643 '>110</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Northcote SD005'>120</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>130</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>140</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Saver''s - Cockle Bay SD808 '>150</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>160</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>170</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>180</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>190</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>200</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>210</x>
+<y>15.96</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Kumeu SD679 '>220</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>230</x>
+<y>35.76</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>240</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>250</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>260</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Hello Banana - Invercargill SD908'>270</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Mt Wellington SD596'>280</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>290</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>300</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Save - Manurewa SD250 '>310</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>320</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Stratford Dairy - Stratford SD963'>330</x>
+<y>76.8</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>340</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Wanganui   SD1006'>350</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Green Bay Bookshop - Green Bay SD951'>360</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Birkenhead SD018 '>370</x>
+<y>66.72</y>
+</chartdata>
+<chartdata>
+<x legend='Nicole Fashion Ltd - Whakatane SD643 '>380</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Good As Gold - Dargaville SD434 '>390</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Papatoetoe SD061'>400</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Lady Tremarine Ltd - Whakatane SD381'>410</x>
+<y>138.24</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>420</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>430</x>
+<y>50.76</y>
+</chartdata>
+<chartdata>
+<x legend='Hello Banana - Gore SD941'>440</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>450</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Celebration - Hamilton SD025 '>460</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>470</x>
+<y>33.36</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>480</x>
+<y>35.76</y>
+</chartdata>
+<chartdata>
+<x legend='Lady Tremarine Ltd - Whakatane SD381'>490</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Smart Buy - Rangiora SD491 '>500</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>510</x>
+<y>35.28</y>
+</chartdata>
+<chartdata>
+<x legend='Da Deals - Porirua SD952'>520</x>
+<y>36.48</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>530</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Ezisavers - Pukekohe SD071 '>540</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>550</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Paeroa SD120'>560</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Max - Hunters Plaza SD837 '>570</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Star - Tauranga SD634 '>580</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Best Bargain - Flat Bush SD417'>590</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>600</x>
+<y>138.24</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Taumarunui SD786 '>610</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Massey SD423 '>620</x>
+<y>16.68</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>630</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>640</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>650</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaikohe SD296'>660</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Botany SD065 '>670</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='$2 Plus - Otahuhu SD015'>680</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Just A Dime - Hamilton SD247 '>690</x>
+<y>16.68</y>
+</chartdata>
+<chartdata>
+<x legend='1-StopShop - Glen Innes SD1043'>700</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>710</x>
+<y>138.24</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>720</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>730</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='U Savers - Morrinsville SD189'>740</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>750</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>760</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Massey SD423 '>770</x>
+<y>33.36</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>780</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Wanganui SD590 '>790</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Tokoroa SD624 '>800</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaikohe SD296'>810</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>820</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Holy Cross School - Papatoetoe SD374'>830</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>840</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Te Kuiti SD129 '>850</x>
+<y>103.68</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Mangere Bridge SD705 '>860</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>870</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Much More Icecream Ltd - East Tamaki SD500'>880</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Manukau SD764'>890</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>900</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>910</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>920</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>930</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Super Save - Beach Heaven SD325'>940</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Triple 5 - Tuakau SD450'>950</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Variety Family Store - St Lukes SD781'>960</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>970</x>
+<y>207.36</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>980</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>990</x>
+<y>33.36</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>1000</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>1010</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1020</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>1030</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Manily Up To 4 - Hillcrest SD443 '>1040</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>1050</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1060</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1070</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1080</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1090</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1100</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1110</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1120</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1130</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1140</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1150</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>1160</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>1170</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>1180</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>1190</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>1200</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Mt Roskill SD1010'>1210</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Shop - Kerikeri SD966'>1220</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Save Lots - Gisborne SD1048'>1230</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Zhi Xuan Ltd - Rotorua SD143 '>1240</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>1250</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='U Savers - Morrinsville SD189'>1260</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>1270</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>1280</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1290</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Porirua SD565'>1300</x>
+<y>36.48</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Shop - Kerikeri SD966'>1310</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Ruakaka 123 - Ruakaka SD582 '>1320</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>1330</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='1-StopShop - Glen Innes SD1043'>1340</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>1350</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>1360</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>1370</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Massey SD112'>1380</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>1390</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>1400</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Mt Roskill SD1010'>1410</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1420</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>1430</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>1440</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Fay Da Ltd - Rotorua SD125 '>1450</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='Shop 4 Less - Henderson SD968'>1460</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Loose Change - Rangiora SD816'>1470</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>1480</x>
+<y>35.76</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>1490</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Pacific Supplies Ltd - Cook Island SD605'>1500</x>
+<y>76.8</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>1510</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>1520</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>1530</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1540</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='2 Fantastic - Nelson SD887 '>1550</x>
+<y>38.4</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>1560</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1570</x>
+<y>-1.392</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Land - Otahuhu SD028'>1580</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Coins – Dunedin SD1025'>1590</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>1600</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store 123 - Northcote SD1036'>1610</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>1620</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>1630</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1640</x>
+<y>16.68</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>1650</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Goods 2 U - Head Office SD547'>1660</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>1670</x>
+<y>15.96</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>1680</x>
+<y>67.68</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Taupo SD128 '>1690</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Gift Emotion - Sunnynook SD907'>1700</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>1710</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Shop 4 Less - Henderson SD968'>1720</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>1730</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1740</x>
+<y>16.68</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1750</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Goods 2 U - Whangarei SD499'>1760</x>
+<y>71.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Northcote SD005'>1770</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Kelston SD031 '>1780</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='$123 Plus - Taradale SD050 '>1790</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Super Save - Beach Heaven SD325'>1800</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>1810</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>1820</x>
+<y>53.64</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>1830</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>1840</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>1850</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Long Yin - Mangere SD259 '>1860</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Warkworth Price Cutter - Warkworth SD680'>1870</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Sweet As - New Market SD670'>1880</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>1890</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Good As Gold - Dargaville SD434 '>1900</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Massey SD112'>1910</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaitaia SD390 '>1920</x>
+<y>86.4</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Papatoetoe SD061'>1930</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1940</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>1950</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Manukau SD764'>1960</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Kumeu SD679 '>1970</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='1   2 Dollar Plus - Kumeu, Huapai SD047 '>1980</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>1990</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>2000</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>2010</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='The Dollar City - Levin SD398 '>2020</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>2030</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>2040</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Z C Trading Ltd - Waiuku SD344'>2050</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Choice Discount - Mangere SD231 '>2060</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>2070</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2080</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Hawera SD617'>2090</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>2100</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Porirua SD565'>2110</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Birkenhead SD018 '>2120</x>
+<y>16.68</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>2130</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain World - Feilding SD106 '>2140</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Waipukurau SD105 '>2150</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>2160</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='2 Cool - Waikato SD993'>2170</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>2180</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>2190</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>2200</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2210</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Variety Family Store - St Lukes SD781'>2220</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Coins – Dunedin SD1025'>2230</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Spring Sunshine International Ltd - Mangere SD208'>2240</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Spring Sunshine International Ltd - Mangere SD208'>2250</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>2260</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar City - Helensville SD146 '>2270</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Porirua SD291 '>2280</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar World - Pukekohe SD150'>2290</x>
+<y>36.48</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>2300</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Save Lots - Te Awamutu SD998'>2310</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Wanganui SD590 '>2320</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Avondale SD266'>2330</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Kelston SD031 '>2340</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>2350</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2360</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>2370</x>
+<y>50.76</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>2380</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Station - Meadowbank SD145'>2390</x>
+<y>76.8</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>2400</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>2410</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>2420</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2430</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2440</x>
+<y>17.664</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>2450</x>
+<y>19.2</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar City - Helensville SD146 '>2460</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Tokoroa SD624 '>2470</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>2480</x>
+<y>69.12</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Save - Manurewa SD250 '>2490</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Wairoa SD131 '>2500</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2510</x>
+<y>17.64</y>
+</chartdata>
+<chartdata>
+<x legend='Krishna Trading NZ Ltd - Ngaruawahia SD614'>2520</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2530</x>
+<y>72.96</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2540</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Hui Huang Ltd - Tokoroa SD175'>2550</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Max - Hunters Plaza SD837 '>2560</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2570</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>2580</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Zone - Tauranga SD830 '>2590</x>
+<y>16.92</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>2600</x>
+<y>34.56</y>
+</chartdata>
+<chartdata>
+<x legend='3   5 Dollar - Hamilton SD080 '>2610</x>
+<y>65.28</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Z C Trading Ltd - Waiuku SD344'>2620</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain 4 U - Mangere SD154 '>2630</x>
+<y>18.24</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>2640</x>
+<y>33.84</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>2650</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>2660</x>
+<y>35.76</y>
+</chartdata>
+<chartdata>
+<x legend='Kyle Grace - Taumarunui SD768'>2670</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>2680</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>2690</x>
+<y>15.96</y>
+</chartdata>
+<chartdata>
+<x legend='2 Cool - Waikato SD993'>2700</x>
+<y>17.88</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>2710</x>
+<y>17.28</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>2720</x>
+<y>17.28</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='Smart Buy - Motueka SD195 '>5</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Gift Today - Thames SD800'>15</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Whakatane SD1019'>25</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>35</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Just A Dime - Hamilton SD247 '>45</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Kyle Grace - Taumarunui SD768'>55</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Hawera SD987'>65</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Whakatane SD1019'>75</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ruakaka 123 - Ruakaka SD582 '>85</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain 4 U - Mangere SD154 '>95</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>105</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Nicole Fashion Ltd - Whakatane SD643 '>115</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Northcote SD005'>125</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>135</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>145</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Saver''s - Cockle Bay SD808 '>155</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>165</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>175</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>185</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>195</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>205</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>215</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Kumeu SD679 '>225</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>235</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>245</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>255</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>265</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Hello Banana - Invercargill SD908'>275</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Mt Wellington SD596'>285</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>295</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>305</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Save - Manurewa SD250 '>315</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>325</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Stratford Dairy - Stratford SD963'>335</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>345</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Wanganui   SD1006'>355</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Green Bay Bookshop - Green Bay SD951'>365</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Birkenhead SD018 '>375</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Nicole Fashion Ltd - Whakatane SD643 '>385</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Good As Gold - Dargaville SD434 '>395</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Papatoetoe SD061'>405</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Lady Tremarine Ltd - Whakatane SD381'>415</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>425</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>435</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Hello Banana - Gore SD941'>445</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>455</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Celebration - Hamilton SD025 '>465</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>475</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>485</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Lady Tremarine Ltd - Whakatane SD381'>495</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Smart Buy - Rangiora SD491 '>505</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>515</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Da Deals - Porirua SD952'>525</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>535</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ezisavers - Pukekohe SD071 '>545</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>555</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Paeroa SD120'>565</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Max - Hunters Plaza SD837 '>575</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Star - Tauranga SD634 '>585</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Best Bargain - Flat Bush SD417'>595</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>605</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Taumarunui SD786 '>615</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Massey SD423 '>625</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>635</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>645</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>655</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaikohe SD296'>665</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Botany SD065 '>675</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2 Plus - Otahuhu SD015'>685</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Just A Dime - Hamilton SD247 '>695</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='1-StopShop - Glen Innes SD1043'>705</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>715</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>725</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>735</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='U Savers - Morrinsville SD189'>745</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>755</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>765</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Massey SD423 '>775</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>785</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Wanganui SD590 '>795</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Tokoroa SD624 '>805</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaikohe SD296'>815</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>825</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Holy Cross School - Papatoetoe SD374'>835</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>845</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Te Kuiti SD129 '>855</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Mangere Bridge SD705 '>865</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>875</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Much More Icecream Ltd - East Tamaki SD500'>885</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Manukau SD764'>895</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>905</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>915</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>925</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>935</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Save - Beach Heaven SD325'>945</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Triple 5 - Tuakau SD450'>955</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Variety Family Store - St Lukes SD781'>965</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>975</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>985</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>995</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>1005</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>1015</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1025</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>1035</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Manily Up To 4 - Hillcrest SD443 '>1045</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>1055</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1065</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1075</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1085</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1095</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1105</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1115</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1125</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1135</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1145</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1155</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>1165</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>1175</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>1185</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>1195</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>1205</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Mt Roskill SD1010'>1215</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Shop - Kerikeri SD966'>1225</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Save Lots - Gisborne SD1048'>1235</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Zhi Xuan Ltd - Rotorua SD143 '>1245</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>1255</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='U Savers - Morrinsville SD189'>1265</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>1275</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>1285</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1295</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Porirua SD565'>1305</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Shop - Kerikeri SD966'>1315</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ruakaka 123 - Ruakaka SD582 '>1325</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>1335</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='1-StopShop - Glen Innes SD1043'>1345</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>1355</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>1365</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>1375</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Massey SD112'>1385</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>1395</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>1405</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Mt Roskill SD1010'>1415</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1425</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>1435</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>1445</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Fay Da Ltd - Rotorua SD125 '>1455</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Shop 4 Less - Henderson SD968'>1465</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Loose Change - Rangiora SD816'>1475</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>1485</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>1495</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Pacific Supplies Ltd - Cook Island SD605'>1505</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>1515</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>1525</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>1535</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1545</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='2 Fantastic - Nelson SD887 '>1555</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>1565</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1575</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Land - Otahuhu SD028'>1585</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Coins – Dunedin SD1025'>1595</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>1605</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store 123 - Northcote SD1036'>1615</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>1625</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>1635</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1645</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>1655</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Goods 2 U - Head Office SD547'>1665</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>1675</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>1685</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Taupo SD128 '>1695</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Gift Emotion - Sunnynook SD907'>1705</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>1715</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Shop 4 Less - Henderson SD968'>1725</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>1735</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1745</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1755</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Goods 2 U - Whangarei SD499'>1765</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Northcote SD005'>1775</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Kelston SD031 '>1785</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$123 Plus - Taradale SD050 '>1795</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Save - Beach Heaven SD325'>1805</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>1815</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>1825</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>1835</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>1845</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>1855</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Long Yin - Mangere SD259 '>1865</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Warkworth Price Cutter - Warkworth SD680'>1875</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Sweet As - New Market SD670'>1885</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>1895</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Good As Gold - Dargaville SD434 '>1905</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Massey SD112'>1915</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaitaia SD390 '>1925</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Papatoetoe SD061'>1935</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1945</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>1955</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Manukau SD764'>1965</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Kumeu SD679 '>1975</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='1   2 Dollar Plus - Kumeu, Huapai SD047 '>1985</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>1995</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>2005</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>2015</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='The Dollar City - Levin SD398 '>2025</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>2035</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>2045</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Z C Trading Ltd - Waiuku SD344'>2055</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Choice Discount - Mangere SD231 '>2065</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>2075</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2085</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Hawera SD617'>2095</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>2105</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Porirua SD565'>2115</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Birkenhead SD018 '>2125</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>2135</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain World - Feilding SD106 '>2145</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Waipukurau SD105 '>2155</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>2165</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='2 Cool - Waikato SD993'>2175</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>2185</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>2195</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>2205</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2215</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Variety Family Store - St Lukes SD781'>2225</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Coins – Dunedin SD1025'>2235</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Spring Sunshine International Ltd - Mangere SD208'>2245</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Spring Sunshine International Ltd - Mangere SD208'>2255</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>2265</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar City - Helensville SD146 '>2275</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Porirua SD291 '>2285</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar World - Pukekohe SD150'>2295</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>2305</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Save Lots - Te Awamutu SD998'>2315</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Wanganui SD590 '>2325</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Avondale SD266'>2335</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Kelston SD031 '>2345</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>2355</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2365</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>2375</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>2385</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Station - Meadowbank SD145'>2395</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>2405</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>2415</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>2425</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2435</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2445</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>2455</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar City - Helensville SD146 '>2465</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Tokoroa SD624 '>2475</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>2485</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Save - Manurewa SD250 '>2495</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Wairoa SD131 '>2505</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2515</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Krishna Trading NZ Ltd - Ngaruawahia SD614'>2525</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2535</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2545</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Hui Huang Ltd - Tokoroa SD175'>2555</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Max - Hunters Plaza SD837 '>2565</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2575</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>2585</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Zone - Tauranga SD830 '>2595</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>2605</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='3   5 Dollar - Hamilton SD080 '>2615</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Z C Trading Ltd - Waiuku SD344'>2625</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain 4 U - Mangere SD154 '>2635</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>2645</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>2655</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>2665</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Kyle Grace - Taumarunui SD768'>2675</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>2685</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>2695</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='2 Cool - Waikato SD993'>2705</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>2715</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>2725</x>
+<y>0</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='Smart Buy - Motueka SD195 '>10</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Gift Today - Thames SD800'>20</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Whakatane SD1019'>30</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>40</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Just A Dime - Hamilton SD247 '>50</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Kyle Grace - Taumarunui SD768'>60</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Hawera SD987'>70</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Whakatane SD1019'>80</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Ruakaka 123 - Ruakaka SD582 '>90</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain 4 U - Mangere SD154 '>100</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>110</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Nicole Fashion Ltd - Whakatane SD643 '>120</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Northcote SD005'>130</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>140</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>150</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Saver''s - Cockle Bay SD808 '>160</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>170</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>180</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>190</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>200</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>210</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>220</x>
+<y>1.33</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Kumeu SD679 '>230</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>240</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>250</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>260</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>270</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Hello Banana - Invercargill SD908'>280</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Mt Wellington SD596'>290</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>300</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>310</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Save - Manurewa SD250 '>320</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>330</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Stratford Dairy - Stratford SD963'>340</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>350</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Wanganui   SD1006'>360</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Green Bay Bookshop - Green Bay SD951'>370</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Birkenhead SD018 '>380</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Nicole Fashion Ltd - Whakatane SD643 '>390</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Good As Gold - Dargaville SD434 '>400</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Papatoetoe SD061'>410</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Lady Tremarine Ltd - Whakatane SD381'>420</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>430</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>440</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Hello Banana - Gore SD941'>450</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>460</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Celebration - Hamilton SD025 '>470</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>480</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>490</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Lady Tremarine Ltd - Whakatane SD381'>500</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Smart Buy - Rangiora SD491 '>510</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>520</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Da Deals - Porirua SD952'>530</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>540</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Ezisavers - Pukekohe SD071 '>550</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>560</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Paeroa SD120'>570</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Max - Hunters Plaza SD837 '>580</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Star - Tauranga SD634 '>590</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Best Bargain - Flat Bush SD417'>600</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>610</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Taumarunui SD786 '>620</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Massey SD423 '>630</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>640</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>650</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>660</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaikohe SD296'>670</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Botany SD065 '>680</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$2 Plus - Otahuhu SD015'>690</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Just A Dime - Hamilton SD247 '>700</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='1-StopShop - Glen Innes SD1043'>710</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>720</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>730</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>740</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='U Savers - Morrinsville SD189'>750</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>760</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>770</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Massey SD423 '>780</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>790</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Wanganui SD590 '>800</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Tokoroa SD624 '>810</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaikohe SD296'>820</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>830</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Holy Cross School - Papatoetoe SD374'>840</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>850</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Q Store - Te Kuiti SD129 '>860</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Mangere Bridge SD705 '>870</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>880</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Much More Icecream Ltd - East Tamaki SD500'>890</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Manukau SD764'>900</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>910</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>920</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>930</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>940</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Super Save - Beach Heaven SD325'>950</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Triple 5 - Tuakau SD450'>960</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Variety Family Store - St Lukes SD781'>970</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>980</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>990</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1000</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>1010</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>1020</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1030</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>1040</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Manily Up To 4 - Hillcrest SD443 '>1050</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>1060</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1070</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1080</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1090</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1100</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1110</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1120</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1130</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1140</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1150</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1160</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>1170</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>1180</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - MataMata SD140'>1190</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>1200</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>1210</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Mt Roskill SD1010'>1220</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Shop - Kerikeri SD966'>1230</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Save Lots - Gisborne SD1048'>1240</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Zhi Xuan Ltd - Rotorua SD143 '>1250</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>1260</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='U Savers - Morrinsville SD189'>1270</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>1280</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>1290</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1300</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Porirua SD565'>1310</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Shop - Kerikeri SD966'>1320</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Ruakaka 123 - Ruakaka SD582 '>1330</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>1340</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='1-StopShop - Glen Innes SD1043'>1350</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>1360</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>1370</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>1380</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Massey SD112'>1390</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Stop N Shop - Glen Eden SD646'>1400</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>1410</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Mt Roskill SD1010'>1420</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1430</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>1440</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>1450</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Fay Da Ltd - Rotorua SD125 '>1460</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Shop 4 Less - Henderson SD968'>1470</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Loose Change - Rangiora SD816'>1480</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>1490</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>1500</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Pacific Supplies Ltd - Cook Island SD605'>1510</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>1520</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>1530</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>1540</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Penrose SD510 '>1550</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='2 Fantastic - Nelson SD887 '>1560</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>1570</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1580</x>
+<y>1.392</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Land - Otahuhu SD028'>1590</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Coins – Dunedin SD1025'>1600</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Price   Quality - St Lukes SD1035'>1610</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store 123 - Northcote SD1036'>1620</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>1630</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>1640</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1650</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>1660</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Goods 2 U - Head Office SD547'>1670</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>1680</x>
+<y>1.33</y>
+</chartdata>
+<chartdata>
+<x legend='YL $2   Plus - Massey SD454'>1690</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Taupo SD128 '>1700</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Gift Emotion - Sunnynook SD907'>1710</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>1720</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Shop 4 Less - Henderson SD968'>1730</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>1740</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Pukekohe SD124 '>1750</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>1760</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Goods 2 U - Whangarei SD499'>1770</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Northcote SD005'>1780</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Kelston SD031 '>1790</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='$123 Plus - Taradale SD050 '>1800</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Super Save - Beach Heaven SD325'>1810</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More - Otara SD063'>1820</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>1830</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>1840</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>1850</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>1860</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Long Yin - Mangere SD259 '>1870</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Warkworth Price Cutter - Warkworth SD680'>1880</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Sweet As - New Market SD670'>1890</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Good Deal - Onehunga SD526 '>1900</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Good As Gold - Dargaville SD434 '>1910</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Massey SD112'>1920</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kaitaia SD390 '>1930</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Look Sharp Shop - Papatoetoe SD061'>1940</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Saver - Palmerston North SD1027'>1950</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>1960</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Manukau SD764'>1970</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Kumeu SD679 '>1980</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='1   2 Dollar Plus - Kumeu, Huapai SD047 '>1990</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>2000</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>2010</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Kamo SD741 '>2020</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='The Dollar City - Levin SD398 '>2030</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>2040</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>2050</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Z C Trading Ltd - Waiuku SD344'>2060</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Choice Discount - Mangere SD231 '>2070</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Mart - Massey SD664'>2080</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2090</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Hawera SD617'>2100</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='U Mart(Happy Baby) - 3 Kings SD300'>2110</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Porirua SD565'>2120</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 2 Go - Birkenhead SD018 '>2130</x>
+<y>1.39</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Heaven - Wairoa SD888 '>2140</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain World - Feilding SD106 '>2150</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Waipukurau SD105 '>2160</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Super Saver - Glen Innes SD1000'>2170</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='2 Cool - Waikato SD993'>2180</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Store Mainly Up To 4 - Chartwell SD612 '>2190</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MY Home - Turangi SD318 '>2200</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>2210</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2220</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Variety Family Store - St Lukes SD781'>2230</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Coins – Dunedin SD1025'>2240</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Spring Sunshine International Ltd - Mangere SD208'>2250</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Spring Sunshine International Ltd - Mangere SD208'>2260</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>2270</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar City - Helensville SD146 '>2280</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Porirua SD291 '>2290</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar World - Pukekohe SD150'>2300</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>2310</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Save Lots - Te Awamutu SD998'>2320</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Gold Coin - Wanganui SD590 '>2330</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain City - Avondale SD266'>2340</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Kelston SD031 '>2350</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='E Thing - Milford SD155 '>2360</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2370</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Dollars Deal - Taihape SD1003'>2380</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='$2   More Mart - Devonport SD052 '>2390</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Station - Meadowbank SD145'>2400</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar 123 - Pukekohe SD008'>2410</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Happy Together - Orewa SD170'>2420</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Tauranga SD138 '>2430</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2440</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2450</x>
+<y>1.472</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Center - Pukekohe SD751 '>2460</x>
+<y>1.6</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar City - Helensville SD146 '>2470</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Tokoroa SD624 '>2480</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar King - Whakatane SD716 '>2490</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Save - Manurewa SD250 '>2500</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save - Wairoa SD131 '>2510</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Mart - Waiuku SD893'>2520</x>
+<y>1.47</y>
+</chartdata>
+<chartdata>
+<x legend='Krishna Trading NZ Ltd - Ngaruawahia SD614'>2530</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2540</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Fashion Leader Ltd - Papakura SD442'>2550</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Hui Huang Ltd - Tokoroa SD175'>2560</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Max - Hunters Plaza SD837 '>2570</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='J   Y Brothers NZ Ltd - St Lukes SD770 '>2580</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Krazy Dollar Dealz - Dunedin SD959'>2590</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Zone - Tauranga SD830 '>2600</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet  - Papakura SD070'>2610</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='3   5 Dollar - Hamilton SD080 '>2620</x>
+<y>1.36</y>
+</chartdata>
+<chartdata>
+<x legend='Coin Save Z C Trading Ltd - Waiuku SD344'>2630</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Bargain 4 U - Mangere SD154 '>2640</x>
+<y>1.52</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar Outlet - Takanini SD953'>2650</x>
+<y>1.41</y>
+</chartdata>
+<chartdata>
+<x legend='Ming''s Vairety Store - Cambridge SD836 '>2660</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='The Chicken Man - Henderson SD754 '>2670</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Kyle Grace - Taumarunui SD768'>2680</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='MKB $2 Special Shop - Glen Eden SD035'>2690</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Hotspot - Browns Bay SD246 '>2700</x>
+<y>1.33</y>
+</chartdata>
+<chartdata>
+<x legend='2 Cool - Waikato SD993'>2710</x>
+<y>1.49</y>
+</chartdata>
+<chartdata>
+<x legend='Dollar House - Ellerslie SD1013'>2720</x>
+<y>1.44</y>
+</chartdata>
+<chartdata>
+<x legend='Fulsun Shop - Manurewa SD343 '>2730</x>
+<y>1.44</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

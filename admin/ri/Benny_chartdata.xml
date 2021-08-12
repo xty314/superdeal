@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='Girl Bundle'>0</x>
+<y>50</y>
+</chartdata>
+<chartdata>
+<x legend='Half Hull 70cm'>10</x>
+<y>5</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='Girl Bundle'>5</x>
+<y>375.0000</y>
+</chartdata>
+<chartdata>
+<x legend='Half Hull 70cm'>15</x>
+<y>275.0000</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='JAN'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='FEB'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MAR'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='APR'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='MAY'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='JUN'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='JUL'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='AUG'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='SEP'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='OCT'>0</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='NOV'>0</x>
+<y>0</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

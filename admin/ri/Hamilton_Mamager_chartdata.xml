@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='test product'>5</x>
+<y>-88.8811</y>
+</chartdata>
+<chartdata>
+<x legend='test product 2'>15</x>
+<y>810.28</y>
+</chartdata>
+<chartdata>
+<x legend='TEST PRODUCT'>25</x>
+<y>202.6911</y>
+</chartdata>
+<chartdata>
+<x legend='test product 5'>35</x>
+<y>11</y>
+</chartdata>
+<chartdata>
+<x legend='Assemble Services'>45</x>
+<y>86.6667</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='test product'>0</x>
+<y>711.1189</y>
+</chartdata>
+<chartdata>
+<x legend='test product 2'>10</x>
+<y>810.28</y>
+</chartdata>
+<chartdata>
+<x legend='TEST PRODUCT'>20</x>
+<y>259.8311</y>
+</chartdata>
+<chartdata>
+<x legend='test product 5'>30</x>
+<y>11</y>
+</chartdata>
+<chartdata>
+<x legend='Assemble Services'>40</x>
+<y>106.6667</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>

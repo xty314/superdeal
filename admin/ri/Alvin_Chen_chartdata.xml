@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chartdatalist>
+<chartdataisland>
+<chartdata>
+<x legend='**Automation Associates Ltd'>0</x>
+<y>-87</y>
+</chartdata>
+<chartdata>
+<x legend='Linn New Zealand'>10</x>
+<y>28</y>
+</chartdata>
+<chartdata>
+<x legend='**DesignerTechnology Ltd'>20</x>
+<y>-46</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>30</x>
+<y>0</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>40</x>
+<y>-10</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>50</x>
+<y>0</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='**Automation Associates Ltd'>5</x>
+<y>1147</y>
+</chartdata>
+<chartdata>
+<x legend='Linn New Zealand'>15</x>
+<y>1147</y>
+</chartdata>
+<chartdata>
+<x legend='**DesignerTechnology Ltd'>25</x>
+<y>1147</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>35</x>
+<y>1147</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>45</x>
+<y>1147</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>55</x>
+<y>1147</y>
+</chartdata>
+</chartdataisland>
+<chartdataisland>
+<chartdata>
+<x legend='**Automation Associates Ltd'>10</x>
+<y>1060</y>
+</chartdata>
+<chartdata>
+<x legend='Linn New Zealand'>20</x>
+<y>1175</y>
+</chartdata>
+<chartdata>
+<x legend='**DesignerTechnology Ltd'>30</x>
+<y>1124</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>40</x>
+<y>1147</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>50</x>
+<y>1157</y>
+</chartdata>
+<chartdata>
+<x legend='Ascent Technology Limited'>60</x>
+<y>1147</y>
+</chartdata>
+</chartdataisland>
+</chartdatalist>
